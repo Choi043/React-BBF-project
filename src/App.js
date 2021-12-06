@@ -18,7 +18,7 @@ class Subject extends Component{
     );
   }  
 }
-
+  
 class TOC extends Component{
   render(){
     var list = [];
